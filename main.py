@@ -1,3 +1,4 @@
+import logistic_regression
 import testing
 import linear_regression
 
@@ -7,3 +8,4 @@ import linear_regression
 
 # testing.read_iris_data_with_pandas()
 # linear_regression.main()
+logistic_regression.main()
